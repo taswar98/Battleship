@@ -1,0 +1,55 @@
+  state 0 OK -> Start a new game
+->new_game(advanced)
+  state 1 OK -> Fire Away!
+     1  2  3  4  5  6  7  8  9 10 11 12
+  A  _  _  _  _  _  _  _  _  _  _  _  _
+  B  _  _  _  _  _  _  _  _  _  _  _  _
+  C  _  _  _  _  _  _  _  _  _  _  _  _
+  D  _  _  _  _  _  _  _  _  _  _  _  _
+  E  _  _  _  _  _  _  _  _  _  _  _  _
+  F  _  _  _  _  _  _  _  _  _  _  _  _
+  G  _  _  _  _  _  _  _  _  _  _  _  _
+  H  _  _  _  _  _  _  _  _  _  _  _  _
+  I  _  _  _  _  _  _  _  _  _  _  _  _
+  J  _  _  _  _  _  _  _  _  _  _  _  _
+  K  _  _  _  _  _  _  _  _  _  _  _  _
+  L  _  _  _  _  _  _  _  _  _  _  _  _
+  Current Game: 1
+  Shots: 0/40
+  Bombs: 0/7
+  Score: 0/28 (Total: 0/28)
+  Ships: 0/7
+    7x1: Not Sunk
+    6x1: Not Sunk
+    5x1: Not Sunk
+    4x1: Not Sunk
+    3x1: Not Sunk
+    2x1: Not Sunk
+    1x1: Not Sunk
+->new_game(easy)
+  state 2 Game already started -> Fire Away!
+     1  2  3  4  5  6  7  8  9 10 11 12
+  A  _  _  _  _  _  _  _  _  _  _  _  _
+  B  _  _  _  _  _  _  _  _  _  _  _  _
+  C  _  _  _  _  _  _  _  _  _  _  _  _
+  D  _  _  _  _  _  _  _  _  _  _  _  _
+  E  _  _  _  _  _  _  _  _  _  _  _  _
+  F  _  _  _  _  _  _  _  _  _  _  _  _
+  G  _  _  _  _  _  _  _  _  _  _  _  _
+  H  _  _  _  _  _  _  _  _  _  _  _  _
+  I  _  _  _  _  _  _  _  _  _  _  _  _
+  J  _  _  _  _  _  _  _  _  _  _  _  _
+  K  _  _  _  _  _  _  _  _  _  _  _  _
+  L  _  _  _  _  _  _  _  _  _  _  _  _
+  Current Game: 1
+  Shots: 0/40
+  Bombs: 0/7
+  Score: 0/28 (Total: 0/28)
+  Ships: 0/7
+    7x1: Not Sunk
+    6x1: Not Sunk
+    5x1: Not Sunk
+    4x1: Not Sunk
+    3x1: Not Sunk
+    2x1: Not Sunk
+    1x1: Not Sunk
